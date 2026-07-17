@@ -4,8 +4,7 @@ A controlled, reproducible benchmark of clean human speech mixed with real marin
 noise at calibrated signal to noise ratios, for training and evaluating speech enhancement and
 noise robust speech systems that must operate on vessels, at the coast, and at the sea surface.
 
-(version, maintainer, and DOI to be added here)
-
+DOI: https://doi.org/10.5281/zenodo.20714212
 ---
 
 ## 1. Overview
